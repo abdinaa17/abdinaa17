@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Nasir. 
 
-### - 📫 How to reach me: ... [Twitter](https://twitter.com/a_nasri8) or My [Website](https://www.sharifwebdev.com/)
+### - 📫 How to reach me: ... Send me a message on [Twitter](https://twitter.com/a_nasri8) or My [Website](https://www.sharifwebdev.com/)
 
 
 <!--
