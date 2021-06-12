@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Nasir. 
+
+### - 📫 How to reach me: ... [Twitter](https://twitter.com/a_nasri8) or My [Website](https://www.sharifwebdev.com/)
+
 
 <!--
 **abdinaa17/abdinaa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
