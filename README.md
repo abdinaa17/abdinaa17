@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nasir. 
+### Hi there   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My name is Nasir. 
 
 ### Check me out on [Twitter](https://twitter.com/a_nasri8) or My [Website](https://www.sharifwebdev.com/)
 
