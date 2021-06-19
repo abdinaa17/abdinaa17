@@ -3,8 +3,8 @@
 ### Check me out on [Twitter](https://twitter.com/a_nasri8) or My [Website](https://www.sharifwebdev.com/)
 
 
-### Skills
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+### Skills and Languages:
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 
 
