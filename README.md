@@ -4,6 +4,7 @@
 
 
 ### Skills
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png")
 
 
 
