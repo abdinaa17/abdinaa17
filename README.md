@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Nasir. I am a Software Developer.
+### Hi there 👋 
+
+### My name is Nasir and I am a Software Developer.
 
 ### Check me out on [Twitter](https://twitter.com/a_nasri8) or My [Website](https://www.sharifwebdev.com/)
 
