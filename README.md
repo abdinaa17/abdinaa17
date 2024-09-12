@@ -2,8 +2,6 @@
 
 ### My name is Nasir and I am a Software Developer.
 
-### Check me out on [Twitter](https://twitter.com/a_nasri8) or My [Website](https://www.sharifwebdev.com/)
-
 
 ### Skills and Languages:
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" width="45rem" alt="react" /> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width="45rem" alt="javascript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" width="45rem" alt="html5" />  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" width="45rem"  alt="css"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" width="45rem" alt="sass" />
